@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ .al__container {
+    @apply px-4 xl:px-0 md:max-w-[720px] lg:max-w-[1200px];
+
+
+ }
